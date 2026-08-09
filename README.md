@@ -132,13 +132,23 @@ Trabalhei por 15 anos como um Operador de Hipermercado nas redes Sendas e Extra 
 
 ### 📊 Estatísticas:
 
-<table>
+<br/>
+
+<table border="0">
     <tr>
-        <td><img src="./profile-summary-card-output/default/0-profile-details.svg" alt="Detalhes do Perfil" width="400px"/></td>
-        <td><img src="./profile-summary-card-output/default/1-repos-per-language.svg" alt="Repositórios por Linguagem" width="400px"/></td>
+        <td>
+            <img src="./profile-summary-card-output/gotham/0-profile-details.svg" alt="Detalhes do Perfil" width="410px"/>
+        </td>
+        <td>
+            <img src="./profile-summary-card-output/gotham/1-repos-per-language.svg" alt="Repositórios por Linguagem" width="410px"/>
+        </td>
     </tr>
     <tr>
-        <td><img src="./profile-summary-card-output/default/2-most-commit-language.svg" alt="Linguagens Mais Commitadas" width="400px"/></td>
-        <td><img src="./profile-summary-card-output/default/3-stats.svg" alt="Status Gerais" width="400px"/></td>
+        <td>
+            <img src="./profile-summary-card-output/gotham/2-most-commit-language.svg" alt="Linguagens Mais Commitadas" width="410px"/>
+        </td>
+        <td>
+            <img src="./profile-summary-card-output/gotham/3-stats.svg" alt="Status Gerais" width="400px"/>
+        </td>
     </tr>
 </table>
