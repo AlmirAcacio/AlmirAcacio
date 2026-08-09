@@ -135,24 +135,43 @@ Trabalhei por 15 anos como um Operador de Hipermercado nas redes Sendas e Extra 
 
 <table border="0">
     <tr>
-        <td>
-            <img src="./profile-summary-card-output/gotham/0-profile-details.svg" alt="Detalhes do Perfil" width="410px"/>
+        <td colspan="2">
+            <img 
+                src="./profile-summary-card-output/gotham/0-profile-details.svg" 
+                alt="Detalhes do Perfil" 
+                width="820px"/>
         </td>
     </tr>
     <tr>
         <td>
-            <img src="./profile-summary-card-output/gotham/1-repos-per-language.svg" alt="Repositórios por Linguagem" width="410px"/>
+            <img 
+                src="./profile-summary-card-output/gotham/1-repos-per-language.svg" 
+                alt="Repositórios por Linguagem"
+                width="410px"
+            />
         </td>
         <td>
-            <img src="./profile-summary-card-output/gotham/2-most-commit-language.svg" alt="Linguagens Mais Commitadas" width="410px"/>
+            <img 
+                src="./profile-summary-card-output/gotham/2-most-commit-language.svg" 
+                alt="Linguagens Mais Commitadas" 
+                width="410px"
+            />
         </td>
     </tr>
     <tr>
         <td>
-            <img src="./profile-summary-card-output/gotham/3-stats.svg" alt="Status Gerais" width="410px"/>
+            <img 
+                src="./profile-summary-card-output/gotham/3-stats.svg" 
+                alt="Status Gerais"
+                width="410px"
+            />
         </td>
         <td>
-            <img src="./profile-summary-card-output/gotham/4-productive-time.svg" alt="Fluxo de Produtividade" width="410px"/>
+            <img 
+                src="./profile-summary-card-output/gotham/4-productive-time.svg"
+                alt="Fluxo de Produtividade" 
+                width="410px"
+            />
         </td>
     </tr>
 </table>
