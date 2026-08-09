@@ -138,7 +138,8 @@ Trabalhei por 15 anos como um Operador de Hipermercado nas redes Sendas e Extra 
         <td colspan="2">
             <img 
                 src="./profile-summary-card-output/gotham/0-profile-details.svg" 
-                alt="Detalhes do Perfil" 
+                alt="Detalhes do Perfil"
+                title="Detalhes do Perfil"
                 width="820px"
             />
         </td>
