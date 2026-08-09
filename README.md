@@ -149,13 +149,15 @@ Trabalhei por 15 anos como um Operador de Hipermercado nas redes Sendas e Extra 
             <img 
                 src="./profile-summary-card-output/gotham/1-repos-per-language.svg" 
                 alt="Repositórios por Linguagem"
+                title="Repositórios por Linguagem"
                 width="410px"
             />
         </td>
         <td>
             <img 
                 src="./profile-summary-card-output/gotham/2-most-commit-language.svg" 
-                alt="Linguagens Mais Commitadas" 
+                alt="Linguagens Mais Commitadas"
+                title="Linguagem Mais Commitadas"
                 width="410px"
             />
         </td>
@@ -165,6 +167,7 @@ Trabalhei por 15 anos como um Operador de Hipermercado nas redes Sendas e Extra 
             <img 
                 src="./profile-summary-card-output/gotham/3-stats.svg" 
                 alt="Status Gerais"
+                title="Status Gerais"
                 width="410px"
             />
         </td>
@@ -172,6 +175,7 @@ Trabalhei por 15 anos como um Operador de Hipermercado nas redes Sendas e Extra 
             <img 
                 src="./profile-summary-card-output/gotham/4-productive-time.svg"
                 alt="Fluxo de Produtividade" 
+                title="Fluxo de Produtividade"
                 width="410px"
             />
         </td>
