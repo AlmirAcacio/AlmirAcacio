@@ -26,7 +26,7 @@ Trabalhei por 15 anos como um Operador de Hipermercado nas redes Sendas e Extra 
 
 ---
 
-### ⚙️ Linguagens e Tecnologias
+### ⚙️ Linguagens e Tecnologias:
 
 <br/>
 
