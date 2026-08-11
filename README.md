@@ -8,18 +8,18 @@ Trabalhei por 15 anos como um Operador de Hipermercado nas redes Sendas e Extra 
 <br/>
 
 <p align="left">
-    <a href="https://github.com/AlmirAcacio?tab=repositories&sort=stargazers">
+    <a href="mailto:auditionerslade@gmail.com">
         <img 
-            alt="Total de Estrelas" 
-            title="Total de Estrelas no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/AlmirAcacio?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+            alt="Gmail"
+            title="Entre em contato comigo através do Gmail" 
+            src="https://custom-icon-badges.demolab.com/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
         />
     </a>
-    <a href="https://github.com/AlmirAcacio?tab=followers">
+    <a href="www.linkedin.com/in/almir-acacio-226bb4400">
         <img 
-            alt="Seguidores" 
-            title="Siga-me no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/AlmirAcacio?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+            alt="LinkedInd" 
+            title="Conecte-se comigo através do LinkedIn" 
+            src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
         />
     </a>
 </p>
