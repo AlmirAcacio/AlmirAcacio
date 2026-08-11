@@ -157,7 +157,7 @@ Trabalhei por 15 anos como um Operador de Hipermercado nas redes Sendas e Extra 
             <img 
                 src="./profile-summary-card-output/gotham/2-most-commit-language.svg" 
                 alt="Linguagens Mais Commitadas"
-                title="Linguagem Mais Commitadas"
+                title="Linguagens Mais Commitadas"
                 width="410px"
             />
         </td>
