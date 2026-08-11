@@ -12,14 +12,14 @@ Trabalhei por 15 anos como um Operador de Hipermercado nas redes Sendas e Extra 
         <img 
             alt="Gmail"
             title="Entre em contato comigo através do Gmail" 
-            src="https://custom-icon-badges.demolab.com/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+            src="https://custom-icon-badges.demolab.com/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=B23121"
         />
     </a>
     <a href="https://www.linkedin.com/in/almir-acacio-226bb4400">
         <img 
-            alt="LinkedInd" 
+            alt="LinkedIn" 
             title="Conecte-se comigo através do LinkedIn" 
-            src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+            src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=004182"
         />
     </a>
 </p>
