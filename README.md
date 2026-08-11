@@ -15,7 +15,7 @@ Trabalhei por 15 anos como um Operador de Hipermercado nas redes Sendas e Extra 
             src="https://custom-icon-badges.demolab.com/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
         />
     </a>
-    <a href="www.linkedin.com/in/almir-acacio-226bb4400">
+    <a href="https://www.linkedin.com/in/almir-acacio-226bb4400">
         <img 
             alt="LinkedInd" 
             title="Conecte-se comigo através do LinkedIn" 
