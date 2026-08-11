@@ -19,7 +19,7 @@ Trabalhei por 15 anos como um Operador de Hipermercado nas redes Sendas e Extra 
         <img 
             alt="LinkedIn" 
             title="Conecte-se comigo através do LinkedIn" 
-            src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=004182"
+            src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=white&labelColor=004182"
         />
     </a>
 </p>
