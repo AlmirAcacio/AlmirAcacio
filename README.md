@@ -16,7 +16,7 @@ Trabalhei por 15 anos como um Operador de Hipermercado nas redes Sendas e Extra 
             title="Entre em contato comigo através do Gmail" 
             src="https://custom-icon-badges.demolab.com/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=B23121"
         /></a>&nbsp;&nbsp;&nbsp;
-    <a href="https://www.linkedin.com/in/almir-acacio-vilaça-filho-226bb4400">
+    <a href="https://www.linkedin.com/in/almiracacio">
         <img 
             alt="LinkedIn" 
             title="Conecte-se comigo através do LinkedIn" 
